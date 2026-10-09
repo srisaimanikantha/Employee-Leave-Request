@@ -1,0 +1,4 @@
+1|1|2026-10-12|2026-10-14|Personal|Family visit|APPROVED
+2|1|2026-10-14|2026-10-15|Other|Travel|REJECTED
+3|1|2026-10-19|2026-10-20|Personal|Home visit|APPROVED
+4|2|2026-10-25|2026-10-27|Personal|Family function|APPROVED
